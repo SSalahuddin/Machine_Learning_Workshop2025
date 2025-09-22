@@ -1,6 +1,6 @@
 # Machine Learning Workshop 2025
 
-Welcome to the **Machine Learning Workshop 2025** repository!  
+Welcome to the **Machine Learning Workshop 2025** repository.  
 This repository contains carefully crafted Jupyter Notebooks that guide you through essential concepts in machine learning — from basic regression to neural networks and reinforcement learning.  
 
 Whether you are just starting your machine learning journey or want to strengthen your understanding of core techniques, this workshop provides a hands-on, step-by-step learning experience using real datasets.
@@ -92,4 +92,4 @@ Contributions and improvements are welcome! Feel free to open an issue or submit
 
 ---
 
-Happy learning and exploring the exciting world of machine learning!
+Happy learning and exploring the exciting world of machine learning.
